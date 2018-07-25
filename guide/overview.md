@@ -1,3 +1,10 @@
+---
+layout: page
+title: Veterans-focused Integration Process (VIP) Policy | Overview
+permalink: /overview/
+description:
+---
+
 # 1 Overview
 
 On December 31, 2015, the Office of Information and Technology (OIT) implemented a new Information Technology (IT) delivery and governance framework that encompasses the portfolio/program/project levels.

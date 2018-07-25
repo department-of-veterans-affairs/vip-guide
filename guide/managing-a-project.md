@@ -1,3 +1,10 @@
+---
+layout: page
+title: Veterans-focused Integration Process (VIP) Policy | Managing a project
+permalink: /managing-a-project/
+description:
+---
+
 # 4 Managing a Project with VIP
 
 ## 4.1 Agile Implementation

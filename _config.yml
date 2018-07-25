@@ -1,0 +1,55 @@
+# markdown
+markdown: kramdown
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+# Site metadata
+name: "Veteran-focused Integration Process (VIP Guide)"
+description: "Building better software"
+#baseurl: Uncomment the following line for localhost development at http://127.0.0.1:4000/vip-guide/
+baseurl: /vip-guide
+
+# GitHub information
+org_name: jbjonesjr
+repo_name: vip-guide
+branch: master
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Introduction
+  url: /vip-guide/
+- text: 1 - Overview
+  url: /vip-guide/overview/
+- text: 2 - Lifecycle
+  url: /vip-guide/lifecycle/
+- text: 3 - Reporting and Tooling
+  url: /vip-guide/reporting-and-tooling/
+- text: 4 - Managing a Project
+  url: /vip-guide/managing-a-project/
+- text: Appendix A - Terminology
+  url: /vip-guide/appendix-a/
+- text: Appendix B - Suitability
+  url: /vip-guide/appendix-b/
+- text: Appendix C - Contacts
+  url: /vip-guide/appendix-c/
+
+
+# sass
+sass:
+  sass_dir: _sass
+
+gems:
+  - jekyll-redirect-from

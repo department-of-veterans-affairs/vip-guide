@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Veterans-focused Integration Process (VIP) Policy | Appendix C: Contacts"
+permalink: /appendix-c/
+description:
+---
+
 # Appendix C List of Contacts
 
 #### C.1 Enterprise Architecture

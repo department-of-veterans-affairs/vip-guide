@@ -1,3 +1,10 @@
+---
+layout: page
+title: Veterans-focused Integration Process (VIP) Policy | Introduction
+permalink: /
+description:
+---
+
 # VETERAN-FOCUSED INTEGRATION PROCESS GUIDE
 ### Version 3.1, APRIL 2018
 
@@ -13,9 +20,9 @@ As VA continually strives to improve project management effectiveness and effici
 
 Approved by:
 
-Mr. Bill James   /   Date
-Deputy Assistant Secretary (DAS)
-Enterprise Program Management Office (EPMO)
+Mr. Bill James   /   Date  
+Deputy Assistant Secretary (DAS)  
+Enterprise Program Management Office (EPMO)  
 
 ### RECORD OF CHANGES
 

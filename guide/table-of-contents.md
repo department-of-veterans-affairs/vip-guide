@@ -1,3 +1,10 @@
+---
+layout: page
+title: Veterans-focused Integration Process (VIP) Policy | Table of Contents
+permalink: /table-of-contents/
+description:
+---
+
 ## Table of Contents
 
 1        Overview  

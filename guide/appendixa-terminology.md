@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Veterans-focused Integration Process (VIP) Policy | Appendix A: Terminology"
+permalink: /appendix-a/
+description:
+---
+
 # Appendix A Agile Terminology
 
 **Agile Terminology** | **What It _Means…_**

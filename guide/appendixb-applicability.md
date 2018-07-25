@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Veterans-focused Integration Process (VIP) Policy | Appendix B: Applicability"
+permalink: /appendix-b/
+description:
+---
+
 # Appendix B Types of Projects that Will Employ VIP
 
 ## B.1 Infrastructure

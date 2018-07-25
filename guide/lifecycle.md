@@ -1,3 +1,10 @@
+---
+layout: page
+title: Veterans-focused Integration Process (VIP) Policy | Lifecycle
+permalink: /lifecycle/
+description:
+---
+
 # 2 VIP Lifecycle
 
 VIP creates a streamlined IT oversight process that further uses the Agile Project Management Methodology. The following sections of the VIP Guide outline the phases of development of an IT project, from Intake to Sustainment, as depicted through the VIP Lifecycle.

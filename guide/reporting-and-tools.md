@@ -1,3 +1,10 @@
+---
+layout: page
+title: Veterans-focused Integration Process (VIP) Policy | Reporting and Tooling
+permalink: /reporting-and-tooling/
+description:
+---
+
 # 3 VIP Reporting and Tools
 
 ## 3.1 VIP Dashboard and External Reporting Requirements
